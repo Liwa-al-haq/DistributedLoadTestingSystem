@@ -29,9 +29,6 @@ This project aims to design and build a distributed load-testing system that coo
 - **Tsunami Testing**: Set delay intervals between requests
 - **Avalanche Testing**: First-come, first-serve request processing
 
-## Contributing
-Contributions are encouraged! Please see our [contributing guidelines](CONTRIBUTING.md).
-
 ## License
 This project is under the [MIT License](LICENSE.md).
 
@@ -40,5 +37,4 @@ For support and inquiries, [open an issue](https://github.com/Liwa-al-haq/Distri
 
 ---
 
-*Note: This README is based on the Big Data Project 2023 at PES University. Adjust the content as needed for your specific project details.*
 
