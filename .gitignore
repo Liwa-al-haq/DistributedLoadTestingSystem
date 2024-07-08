@@ -1,1 +1,4 @@
 myenv/
+go.mod/
+go.sum/
+DistributedLoadTestingSystem-main.code-workspace/
