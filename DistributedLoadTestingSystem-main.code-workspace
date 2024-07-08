@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bd2023-load-testing-server-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DistributedLoadTestingSystem-main"
+	}
+}
