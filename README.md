@@ -7,7 +7,7 @@ This project aims to design and build a distributed load-testing system that coo
 - Orchestrator and Driver Nodes as separate processes
 - Communication via Kafka
 - Scalable with a minimum of 3 and a maximum of 9 nodes
-- Detailed architecture diagram: ![Architecture Diagram](https://i.imgur.com/dEAZWyX.png)
+- Detailed architecture diagram: ![Architecture Diagram](https://imgur.com/qIzBdCP.png)  
 
 ## Features
 - Kafka as a central communication hub
